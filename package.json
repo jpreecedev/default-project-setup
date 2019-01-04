@@ -9,6 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpreecedev/default-project-setup.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jpreecedev/default-project-setup/issues"
+  },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
     "eslint": "^5.11.1",
